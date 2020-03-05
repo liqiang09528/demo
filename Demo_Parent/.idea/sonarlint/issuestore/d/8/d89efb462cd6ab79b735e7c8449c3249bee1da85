@@ -1,0 +1,14 @@
+
+\squid:S4973"9Use the "equals" method if value comparison was intended.(ÏıÅøÿÿÿÿ8‹ã…†.
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(û…½Àşÿÿÿÿ8ÕÆ—Ø‰.
+\squid:S4973"9Use the "equals" method if value comparison was intended.(ÏıÅøÿÿÿÿ8‹ã…†.
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(î¸ıÿÿÿÿ8ÕÆ—Ø‰.
+_squid:S2441!"<Make "Object" serializable or don't store it in the session.(ÌÍÛƒøÿÿÿÿ8—éš¦Š.
+_squid:S24410"<Make "Object" serializable or don't store it in the session.(ÌÍÛƒøÿÿÿÿ8ŞÚŸ¦Š.
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(­ ‘ˆüÿÿÿÿ8©Íò×‰.
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(‰ü¾üÿÿÿÿ8‰ ®Ö‰.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿ­Ø 8‰ ®Ö‰.
+msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•´ªÂÿÿÿÿÿ8ğëÔÌ‰.
